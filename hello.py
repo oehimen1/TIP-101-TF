@@ -12,4 +12,4 @@ Example:
     results = process_data(cleaned_data)
 '''
 
-print("Hi!")
+print("Hola!")
